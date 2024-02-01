@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  👋 Oi, Meu nome é Felipe Longarini! Apaixonado por técnoloia e área de dados.
+  👋 Oi, Meu nome é Felipe Longarini! Apaixonado por tecnoloia e área de dados.
 
   - 🌱 Atualmente estou estudando Ciência de Dados, na Universidade Presbiteriana Mackenzie.
 
