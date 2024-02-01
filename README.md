@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B8043&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B8043&size=35&center=true&vCenter=true&width=1000&lines=Hello+world+:%29;My+name+is+Felipe+Longarini;I'm+26+years+old;I+am+São+Paulo,Brazil;I+study+Data+Science+at+Mackenzie)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B8043&size=35&center=true&vCenter=true&width=1000&lines=Olá+mundo+:%29;Meu+nome+é+Felipe+Longarini.;E+tenho+26+anos.;Sou+de+São+Paulo,Brasil.;E+estudo+Ciência+de+Dados+no+Mackenzie.)](https://git.io/typing-svg)
 
 <!-- GIF -->
  <p align="left">
