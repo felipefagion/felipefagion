@@ -1,25 +1,58 @@
-- <h1 align="center"> 👋 Oi, meu nome é Felipe Longarini</h1>
-<h3 align="center">Apaixonado por tecnologia e área de dados!</h3>
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div
 
-- 🌱 Estou me aprofundando em alguns temas treinados atráves de projetos **Python, Exel, Power BI, SQL**
+<!-- Presentation -->
+<p>
+  👋 Oi, Meu nome é Felipe Longarini! Apaixonado por técnoloia e área de dados.
 
-- 📫 Você me acha no email **lipe.fagion@hotmail.com**
+  - 🌱 Atualmente estou estudando Ciência de Dados, na Universidade Presbiteriana Mackenzie.
 
-- 📄 Fui fundado por [https://www.linkedin.com/in/ felipe-longarini-9a9084156/](https://www.linkedin.com/in/felipe-longarini-9a9084156/)
-<<
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left" >
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-longarini-9a9084156/" target="blank"><img align="center" src= "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin. com/in/felipe-longarini-9a9084156/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ felipe.fagion/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /facebook.svg" alt="https://www.facebook.com/felipe.fagion/" height="30" width="40" /></a>
-<a href="https://instagram. com/https://www.instagram.com/felipefagion/?hl=pt-br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/felipefagion/?hl=pt-br" height="30" width= "40" /></a>
+  - 🔭 Estou em busca da primeira oportunidade de emprego para demonstrar todo meu potencial.
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.mysql. com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt=" mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https ://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href= "https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 Um pouco mais sobre mim</summary>
 
-</p> <p><img align="center" src="https://github-readme-stats. vercel.app/api/top-langs?username=felipefagion&show_icons=true&locale=en&layout=compact" alt="felipefagion" /></p>
+  - 💬 Tenho 26 anos e moro no Brasil, estou em migração de carreira e uma dedicação intensiva a estudos.
+  - ⚡ Gosto de assistir jogos de futebol nas horas vagas.
 
-<!---
-felipefagion/felipefagion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=felipefagion&show_icons=true&theme=dark)
+
+
+
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipefagion/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-longarini-9a9084156/)
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+## 🔥 Skills
+<!-- Skills: Linguagens de Programação -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    https://icons8.com/icon/11594/microsoft-excel
+    
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    
+    
+<!-- Skills: Libraries -->
+  <div style="flex-basis: 48%;">
+    <h3>Libraries</h3>
+    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </div>
