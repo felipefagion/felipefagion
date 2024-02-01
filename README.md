@@ -1,24 +1,20 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
-</div
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;HELLO,+MY+NAME+is+Felipe+Longarini;I'm+26+years+old;I+am+from+Brazil,SP;I+study+Data+Science+at+Mackenzie)](https://git.io/typing-svg)
 
-<!-- Presentation -->
-<p>
-  👋 Oi, Meu nome é Felipe Longarini! Apaixonado por tecnoloia e área de dados.
 
-  - 🌱 Atualmente estou estudando Ciência de Dados, na Universidade Presbiteriana Mackenzie.
 
   - 🔭 Estou em busca da primeira oportunidade de emprego para demonstrar todo meu potencial.
 </p>
-
-
-
-
+  
   - 💬 Tenho 26 anos e moro no Brasil, estou em migração de carreira e uma dedicação intensiva a estudos.
+  
   - ⚡ Gosto de assistir jogos de futebol nas horas vagas.
+    
 
+
+
+ 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=felipefagion&show_icons=true&theme=dark)
 
