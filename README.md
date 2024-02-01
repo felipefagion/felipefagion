@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
 </div
 
 <!-- Presentation -->
@@ -13,9 +13,8 @@
   - 🔭 Estou em busca da primeira oportunidade de emprego para demonstrar todo meu potencial.
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Um pouco mais sobre mim</summary>
+
+
 
   - 💬 Tenho 26 anos e moro no Brasil, estou em migração de carreira e uma dedicação intensiva a estudos.
   - ⚡ Gosto de assistir jogos de futebol nas horas vagas.
@@ -39,13 +38,15 @@
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    https://icons8.com/icon/11594/microsoft-excel
+    
     
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    
+    
     
     
 <!-- Skills: Libraries -->
